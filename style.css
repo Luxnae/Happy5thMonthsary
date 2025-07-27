@@ -85,8 +85,8 @@
     position: absolute;
     top: 58%;
     left: 50%;
-    width: 15px;
-    height: 15px;
+    width: 18px;
+    height: 18px;
     background: var(--heart-color);
     z-index: 4;
     transform: translate(-50%, -20%) rotate(45deg);
@@ -98,8 +98,8 @@
   .heart:after {
     content: "";
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 18px;
+    height: 18px;
     background-color: var(--heart-color);
     border-radius: 50%;
   }
